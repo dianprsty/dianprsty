@@ -41,7 +41,7 @@ I am an enthusiastic software engineer with a strong passion for website develop
 
 - :zap: Writes my oppinion about tech and everything in my blog
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dian Prasetyo-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dianprasetyo-2021/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianprasetyo-2021)
 
 
 ### :hammer_and_wrench: Languages and Tools :

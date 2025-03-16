@@ -75,7 +75,7 @@ I am an enthusiastic software engineer with a strong passion for website develop
 <p align="left">
 <a href="https://github.com/dianprsty">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dianprsty&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dianprsty&layout=compact&layout=compact&theme=algolia"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dianprsty&layout=compact&layout=compact&theme=algolia"/> -->
 </a>
 </p>
 
